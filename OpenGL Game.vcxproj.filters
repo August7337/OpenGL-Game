@@ -45,6 +45,9 @@
     <ClCompile Include="Texture.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="default.vert">
@@ -72,6 +75,9 @@
     <ClInclude Include="Texture.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="texture.png">
@@ -79,6 +85,9 @@
     </Image>
     <Image Include="texture.jpg">
       <Filter>Fichiers de ressources\Textures</Filter>
+    </Image>
+    <Image Include="brick.png">
+      <Filter>Fichiers de ressources</Filter>
     </Image>
   </ItemGroup>
 </Project>
