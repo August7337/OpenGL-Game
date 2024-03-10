@@ -93,7 +93,13 @@
       <Filter>Fichiers de ressources\Textures</Filter>
     </Image>
     <Image Include="brick.png">
-      <Filter>Fichiers de ressources</Filter>
+      <Filter>Fichiers de ressources\Textures</Filter>
+    </Image>
+    <Image Include="planksSpec.png">
+      <Filter>Fichiers de ressources\Textures</Filter>
+    </Image>
+    <Image Include="planks.png">
+      <Filter>Fichiers de ressources\Textures</Filter>
     </Image>
   </ItemGroup>
 </Project>
